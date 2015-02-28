@@ -13,8 +13,9 @@ from pprint import pformat
 import marisa_trie
 
 #   Custom
-from ..lib.pysais.pysais import get_maxsubst
-from .constants_tasks import THIS_DIR
+from .lib.pysais.pysais import get_maxsubst
+
+THIS_DIR = os.path.normpath(os.path.dirname(os.path.realpath(__file__)))
 
 def main():
 	"""
