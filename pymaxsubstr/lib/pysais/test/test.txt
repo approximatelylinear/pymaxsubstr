@@ -1,6 +1,0 @@
-this is a test
-\nthis is another test.
-a third  test.
-yet another test.
-u0627u0637u0644u0628_u0645u0646_u0632u064au0646
-\u0627\u0637\u0644\u0628_\u0645\u0646_\u0632\u064a\u0646
